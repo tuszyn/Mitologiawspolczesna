@@ -16,6 +16,10 @@ I biblioteki z pliku requirements.txt
 ```
 pip3 install -r requirements.txt
 ```
+Gdyby dalej były problemy z kodowaniem to można po prostu zainstalować scrapiego poprzez
+```
+pip3 install scrapy
+```
 Następnie będąc w nowo utworzonym folderze przechodzimy do poziomu katalogu w którym znajduje się plik scrapy.cfg
 <br/>Jest to warunek konieczny, żeby uruchomić scrapera.
 ```
