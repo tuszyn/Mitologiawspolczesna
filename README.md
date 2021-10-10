@@ -16,7 +16,7 @@ I następnie zainstalować scrapiego przy pomocy poniższej komendy
 ```
 pip3 install scrapy
 ```
-Następnie będąc w nowo utworzonym folderze przechodzimy do poziomu katalogu w którym znajduje się plik scrapy.cfg
+Następnie będąc w nowo utworzonym folderze przechodzimy do poziomu katalogu na którym znajduje się plik scrapy.cfg
 <br/>Jest to warunek konieczny, żeby uruchomić scrapera.
 ```
 cd mitologiawspolczesna
