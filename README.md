@@ -7,7 +7,12 @@ Do uruchomienia scrapera jest potrzebny python w wersji 3.6+ oraz biblioteki zaw
 ```
 pip install -r requirements.txt
 ```
-Na Linuxie
+Na Linuxie należy zainstalować poniższe zależności
+```
+sudo apt-get install python3 python3-dev python3-pip libxml2-dev libxslt1-dev zlib1g-dev libffi-dev libssl-dev
+
+```
+I biblioteki z pliku requirements.txt
 ```
 pip3 install -r requirements.txt
 ```
